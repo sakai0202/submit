@@ -126,9 +126,9 @@ int main() {
     Dog* dog1 = new Dog();
     Breder2* bre2 = new Breder2(dog1);
 
-    bre2->GiveFood(); //Not hungry
-    bre2->GiveFood(); //Not hungry
+    bre2->GiveFood(); //wanwan Nothungry
+    bre2->GiveFood(); //wanwan Nothungry
     bre2->Sanpo(); // ->hungry‚É
-    bre2->GiveFood(); //hungry‚È‚Ì‚Å‚Ü‚½‚½‚Ñ‚ðH‚×‚é
+    bre2->GiveFood(); //hungry‚È‚Ì‚Åbone‚ðH‚×‚é
     bre2->GiveFood(); //Not hungty
 }
