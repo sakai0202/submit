@@ -1,6 +1,9 @@
 # submit
-For Training
+フォルダ構成  
+learnC++ C++について行った学習　主にデザインパターンの学習を行っている。  
+SIDESCROLLBP 作成した横スクロール+ネットワークゲームのブループリントを配置している。  
 
+以下SIDESCROLLBPの説明  
 CameraCharacter -> カメラキャラクター (観戦者)  
 SideScrollCharacter -> メインキャラクター  
 SideScrollGameInstance :ネットワークの接続処理が記載  
